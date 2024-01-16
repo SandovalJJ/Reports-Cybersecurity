@@ -18,3 +18,8 @@ Welcome to my cybersecurity post-degree repository! Here, I've uploaded a pletho
 
 Feel free to explore, learn, and adapt these materials for your own educational purposes. If you have any questions or suggestions, don't hesitate to reach out. Happy learning!
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/juan-sandoval-delgado-a80556273/))
+[![twitter](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab&logoColor=white)]([https://twitter.com/](https://github.com/SandovalJJ/)https://github.com/SandovalJJ/)
+
