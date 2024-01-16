@@ -1,4 +1,4 @@
-# Cybersecurity Post-Degree Repository 🤓
+# Cybersecurity Post-Degree Repository 🌐
 
 Welcome to my cybersecurity post-degree repository! Here, I've uploaded a plethora of workshops and activities covering various aspects, including cybersecurity, operating system administration, digital forensics, and risk management.
 
